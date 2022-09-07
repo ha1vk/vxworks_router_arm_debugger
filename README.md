@@ -4,4 +4,4 @@ This is an vxworks router arm debugger based on [vxhunter](https://github.com/PA
 1、Add Support For ARM
 2、Some UI optimization
 
-![bg](bg.png)
+![bg](https://raw.githubusercontent.com/ha1vk/vxworks_router_arm_debugger/main/bg.jpg)
